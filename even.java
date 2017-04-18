@@ -12,7 +12,7 @@ public class even {
 		{
 			System.out.println("number is even");
 		}
-		else if(a%2=!0)
+		else if(a%2!=0)
 		{
 			System.out.println("number is odd");
 		}
