@@ -15,6 +15,10 @@ public static void main(String args[])
 	{
 		System.out.println("number is negative");
 	}
+	else if(a==0)
+	{
+		System.out.println("zero");
+	}
 	else
 	{
 		System.out.println("not valid");
